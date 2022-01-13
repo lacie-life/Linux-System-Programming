@@ -4,4 +4,4 @@
 
 [Kernel](https://github.com/PacktPublishing/Linux-Kernel-Programming)
 
-
+[Yocto project](https://docs.yoctoproject.org)
